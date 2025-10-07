@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/lilswapnil/AI-anime-character-generator.git>
 cd memery
 ```
 
