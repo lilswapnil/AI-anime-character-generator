@@ -54,9 +54,6 @@ yarn dev
 pnpm dev
 ```
 
-*   **AI:** [OpenAI DALL-E API](https://openai.com/dall-e-2)
-*   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-
 ## 💡 How to Get Better Results
 
 This application uses the **DALL-E 2** model from OpenAI to generate images. The quality of the generated character depends heavily on the prompt you provide. Here are some tips for writing effective prompts:
@@ -67,8 +64,3 @@ This application uses the **DALL-E 2** model from OpenAI to generate images. The
 *   **Set the Scene:** While the prompt adds a simple background by default, you can specify elements like "standing in a forest" or "with a futuristic city in the background".
 
 The application will combine your prompt with a base instruction to create a detailed anime character. Experiment with different descriptions to see what you can create!
-
-## 🚀 Getting Started
-
-To run this project locally, follow these steps:
-// ...existing code...
