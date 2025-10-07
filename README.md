@@ -1,11 +1,11 @@
-# Memery - AI Meme Generator
+# Anime Character Generator
 
-Memery is a web application that uses AI to generate funny memes based on user-provided text prompts. Simply type in an idea, and Memery will create a unique, shareable meme image for you.
+An AI-powered web application that generates unique anime characters based on user descriptions. Provide a prompt, and the AI will bring your character to life!
 
 ## ✨ Features
 
-*   **AI-Powered Meme Generation:** Leverages the OpenAI DALL-E API to create images from text.
-*   **Simple Interface:** Easy-to-use input for quick meme creation.
+*   **AI Character Generation:** Uses the OpenAI DALL-E API to create anime-style characters from text prompts.
+*   **Simple Interface:** Easy-to-use input for quick character creation.
 *   **Built with Modern Tech:** A fast, modern web application built with Next.js and React.
 
 ## 🛠️ Tech Stack
@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/lilswapnil/AI-meme-generator.gitl>
+git clone <your-repository-url>
 cd memery
 ```
 

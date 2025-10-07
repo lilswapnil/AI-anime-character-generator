@@ -12,8 +12,9 @@ export async function generateImage(userPrompt: string) {
         apiKey: process.env.OPENAI_API_KEY,
     });
 
-    // A detailed prompt to guide the model's image generation.
-    const fullPrompt = `A funny meme image that illustrates the following text but not text in the image: ${userPrompt}`
+    // Prompt for generating an anime character.
+    const fullPrompt = `A high-quality, detailed anime character based on the following description: ${userPrompt}. The character should be in a dynamic pose, with a simple background.`;
+
     // Request a single, cost-effective image from the DALL-E 2 model.
     const response = await openai.images.generate({
         model: "dall-e-2",
